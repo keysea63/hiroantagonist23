@@ -1,0 +1,37 @@
+.listing ul{
+    list-style-type: none;
+    list-style-type: none;
+    background-color: rgb(0,48,73); 
+                font-size: 1cm; color: rgb(0, 0, 0); 
+                text-decoration-line: none; 
+                 overflow: hidden;
+         
+    justify-content: space-between;      
+                 
+    
+
+}
+.listing a{
+    font-size: 1cm; color: rgb(255, 255, 255); 
+                text-decoration-line: none; 
+             
+                
+                 display: flex;
+                 text-align: center;
+}
+.listing a:hover{
+    background-color: rgb(47, 91, 114);
+}
+.listing li{
+    float: left;
+    margin-right: 20px;
+   
+}
+
+.listing{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#ib {
+    background-color:  rgb(255, 233, 174)
+}
