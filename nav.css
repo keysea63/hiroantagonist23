@@ -21,6 +21,11 @@
 }
 .listing a:hover{
     background-color: rgb(47, 91, 114);
+    animation-name: grow;
+    animation-duration: 1s;
+}
+@keyframes grow{
+    25%{transform: scale(1.5, 1.5)}
 }
 .listing li{
     float: left;
